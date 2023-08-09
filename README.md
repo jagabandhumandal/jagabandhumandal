@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C#, Asp.net core, Angular**
 
-- 📫 How to reach me **er.jagabandhu23@gmail.com**
+- 📫 How to reach me **erjagabandhumandal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
